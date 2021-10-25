@@ -57,25 +57,20 @@ ul li a:hover::after{
     display: block;
     margin: 25px 5px;
 }
-.text{
-    position: absolute;
-    z-index: -1;
-    max-width: 600px;
-    margin-top: 27%;
-    margin-left: 8%;
-}
 .text h1{
-    font-size: 65px;
+    margin-top: -1%;
+    text-align: center;
+    font-size: 43px;
 }
 .text p{
-    font-size: 26px;
+    font-size: 25px;
+    margin-top: 3%;
+    margin-left: 20%;
 }
-.text a{
-    font-size: 21px;
-    color: rgb(116, 93, 247);
-    text-decoration: none;
-}
-.work{
-    margin-top: -2%;
-    margin-left: 28%;
+.image img{
+    position: relative;
+    margin-top: -32%;
+    margin-left: 2%;
+    width: 1166px;
+    height: 700px;
 }

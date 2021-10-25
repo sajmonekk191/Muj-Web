@@ -59,7 +59,7 @@ ul li a:hover::after{
 }
 .text{
     position: absolute;
-    z-index: -1;
+    z-index: 2;
     max-width: 600px;
     margin-top: 27%;
     margin-left: 8%;
